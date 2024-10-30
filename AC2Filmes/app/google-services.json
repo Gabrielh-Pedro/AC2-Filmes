@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548717400706",
+    "project_id": "ac2-filmes",
+    "storage_bucket": "ac2-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548717400706:android:ef4ccf1c4cbe46f0491a9b",
+        "android_client_info": {
+          "package_name": "com.example.ac2filmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkloLIEZEJ0GzuHCUDAMmptxCZYH_NPg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
